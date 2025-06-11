@@ -20,7 +20,7 @@ A RESTful API built with Node.js, Express, and MongoDB for managing books and us
 1. Clone and install:
 
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/princekumargarg/book-review-api.git
    cd book-review-api
    npm install
    ```
@@ -36,7 +36,7 @@ A RESTful API built with Node.js, Express, and MongoDB for managing books and us
 3. Start server:
 
    ```bash
-   npm run dev
+   npm run start
    ```
 
 ## 🧪 Sample API Requests
